@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 *.log
 *.config
-untrackfile.txt
+
+=======
+
+*.config
+*.log
+
+>>>>>>> Mybranch
