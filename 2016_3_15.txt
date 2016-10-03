@@ -1,0 +1,3027 @@
+﻿----- Recorded at 2016-03-15 01:48:09 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS02.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 01:48:05 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS02.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:--Service@Mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:benq@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <c145964a-ffb5-490e-a01c-8f43b6abcd21@BQE-CAS02.bqeu.corp.com> [InternalId=4761263] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 01:48:12 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS02.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 01:48:09 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS02.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:--Service@Mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:benq@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <a5a7c351-369e-43e6-affa-7ebc90c321a7@BQE-CAS02.bqeu.corp.com> [InternalId=4761265] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 01:50:20 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS02.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 01:50:09 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS02.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Vala@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:vala@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <196a8a10-811c-4569-82ec-b6315de587b9@BQE-CAS02.bqeu.corp.com> [InternalId=4761272] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 01:57:05 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS02.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 01:57:01 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS02.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:darius@darer.ro
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:support@darer.ro
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <3794eaf7-21a9-45b4-89c0-eb2563d4fb11@BQE-CAS02.bqeu.corp.com> [InternalId=4761286] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:23:11 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:23:02 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma@e-tec.at
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <1124c0fb-7ef0-4da0-a4ab-441a5543a1ca@BQE-CAS01.bqeu.corp.com> [InternalId=5000987] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:23:25 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:23:18 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <96f6e401-cd72-4b31-bc8a-3616909d8ff7@BQE-CAS01.bqeu.corp.com> [InternalId=5000991] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:34:51 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:34:45 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:bma-soft@t-online.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <66991d38-8e8a-45c7-95c4-3f6b614c2c5b@BQE-CAS01.bqeu.corp.com> [InternalId=5001226] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:43:11 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:43:07 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:mallants@gmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <994edf4c-5bd3-4a5c-b120-dbaa5bc47b3b@BQE-CAS01.bqeu.corp.com> [InternalId=5001393] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:46:41 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:46:36 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:emieldeswart@gmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <6af803fb-8eb3-406f-a7f2-948398aa343b@BQE-CAS01.bqeu.corp.com> [InternalId=5001446] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:54:00 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:53:53 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:office@avh-shop.at
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <4cf8def1-f00a-4e02-ac88-66c57575d33f@BQE-CAS01.bqeu.corp.com> [InternalId=5001579] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:57:19 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:57:18 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Aard.Daanen@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Jay.Koningsverdraag@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Marina.Hung@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Laetitia.Umuhoza@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ugo.turcio@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Maxime.Cliquet@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Tommy.Zannou@Benq.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <45129cc5-3108-4aa1-bbae-af961090a68d@BQE-CAS01.bqeu.corp.com> [InternalId=5001642] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:57:19 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:57:19 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Aard.Daanen@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Jay.Koningsverdraag@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Marina.Hung@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Laetitia.Umuhoza@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ugo.turcio@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Maxime.Cliquet@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Tommy.Zannou@Benq.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <e89332cd-7883-427e-837e-b80b60a1374e@BQE-CAS01.bqeu.corp.com> [InternalId=5001643] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:57:20 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:57:20 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Aard.Daanen@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Jay.Koningsverdraag@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Marina.Hung@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Laetitia.Umuhoza@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ugo.turcio@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Maxime.Cliquet@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Tommy.Zannou@Benq.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <4dadbb37-1dc9-412b-9862-7754460635f2@BQE-CAS01.bqeu.corp.com> [InternalId=5001644] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 09:57:24 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 09:57:20 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:logistica@stitaly.it
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:lab.benq@stitaly.it
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:magazzino@stitaly.it
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <a27f5446-d27b-4abe-8226-a49e30383f07@BQE-CAS01.bqeu.corp.com> [InternalId=5001645] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:05:10 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:05:04 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:garantie@easylounge.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <e8039669-4696-4a8a-a983-17d3970c7a6e@BQE-CAS01.bqeu.corp.com> [InternalId=5001790] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:06:26 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:06:23 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:danielelofaro75@gmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f3ce1db3-7e5b-4f79-b48d-05e21a4623e0@BQE-CAS01.bqeu.corp.com> [InternalId=5001827] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:07:22 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:07:15 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:danielelofaro75@gmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <7d720a75-d83a-48d4-8297-9786a7117fff@BQE-CAS01.bqeu.corp.com> [InternalId=5001863] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:11:22 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:11:16 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:mild@mild.at
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <5d8fae3a-83b3-4fa9-b789-6361d424a1c2@BQE-CAS01.bqeu.corp.com> [InternalId=5001917] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:15:02 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:14:57 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:onderzoek@azerty.nl
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <8c44c09a-44ad-42fa-88d5-fbbb22205a9d@BQE-CAS01.bqeu.corp.com> [InternalId=5002021] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:25:56 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:25:49 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:giuseppe.faglieri@tchsistemi.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <d093d7d6-4685-4231-b209-c9622e96b830@BQE-CAS01.bqeu.corp.com> [InternalId=5002208] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:30:23 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:29:54 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:katbu18@gmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <dd2d3fa9-05cc-4348-a68d-d404240a7b9d@BQE-CAS01.bqeu.corp.com> [InternalId=5002264] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 10:39:29 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 10:39:00 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:gerhard.zink@bacon.at
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <655e2a6f-c91d-43c8-aa02-0c8da2665537@BQE-CAS01.bqeu.corp.com> [InternalId=5002408] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:00:03 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:00:00 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:simon.aeschlimann@bluewin.ch
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <eb11b094-e72a-42c8-85c8-954565d48786@BQE-CAS01.bqeu.corp.com> [InternalId=5002715] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:03:22 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:03:18 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:momm01200x@istruzione.it
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <4725b6be-ba89-482f-9c9e-d66c7636cfc3@BQE-CAS01.bqeu.corp.com> [InternalId=5002781] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:05:30 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:05:22 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma@afuture.nl
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <a573f20c-1ad8-46cc-976c-ef9add6febc3@BQE-CAS01.bqeu.corp.com> [InternalId=5002813] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:06:26 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:06:18 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma@pcp.ch
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <28f7186a-8882-4ed8-82ee-d5110e08603e@BQE-CAS01.bqeu.corp.com> [InternalId=5002828] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:12:09 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:12:05 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:onderzoek@azerty.nl
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <b84f8929-6b02-4994-b7ca-6bd5fc5f1140@BQE-CAS01.bqeu.corp.com> [InternalId=5002924] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:22:42 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:22:38 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma@competec.ch
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <7ee64ef3-661d-442b-938b-b7189735f905@BQE-CAS01.bqeu.corp.com> [InternalId=5003070] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:27:23 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:27:20 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:mannheim.service@conrad.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <81e51430-bc64-40c3-8edf-e62052cc2140@BQE-CAS01.bqeu.corp.com> [InternalId=5003124] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:27:54 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:27:49 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma@competec.ch
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <b43e72ae-ece4-42fe-81f2-94d7304bef8f@BQE-CAS01.bqeu.corp.com> [InternalId=5003132] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:33:47 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:33:41 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:kmail0@mail.ru
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <dffee99a-17ad-4c77-b7fb-d2729b0c51e6@BQE-CAS01.bqeu.corp.com> [InternalId=5003249] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:40:14 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:40:10 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:dania@forniture-elettroniche.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <3cd386c9-fc2e-4179-8f99-895f7170bd83@BQE-CAS01.bqeu.corp.com> [InternalId=5003378] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:45:31 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:45:25 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:veic81000a@istruzione.it
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <8f942f3f-a42c-4ef7-bfcc-d540538971c7@BQE-CAS01.bqeu.corp.com> [InternalId=5003471] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:55:54 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:55:52 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:tmueller@planeta-herne.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <ef6078c4-ebe2-4157-b120-f8cbecf12513@BQE-CAS01.bqeu.corp.com> [InternalId=5003742] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 11:59:34 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 11:59:25 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:vala@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Petr.Bystricky@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:havlikj@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:rataj@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:aurednik@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:brichacek@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:buricl@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:sklad-benq@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:gajdos@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:holubovaj@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:vavera.m@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:neubauer@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:zitek@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:smolikova@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:salesreturn@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spareparts@BenQ.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:RTV@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vala@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <dfbc34e1-9153-4b20-9997-b6c4dbb5faa2@BQE-CAS01.bqeu.corp.com> [InternalId=5003787] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 12:02:38 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 12:02:33 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:callcontrol@trams.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <8f2d072a-f790-478a-bd29-621031221799@BQE-CAS01.bqeu.corp.com> [InternalId=5003819] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 12:27:34 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 12:27:27 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:savmag-lorient@boulanger.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f20d2677-e58d-40a2-ac3a-7e89645380f9@BQE-CAS01.bqeu.corp.com> [InternalId=5004050] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 12:33:01 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 12:32:58 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:servicepro-ouest@solvarea.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <30cc313b-9e79-492c-8f19-a70bf95a39e3@BQE-CAS01.bqeu.corp.com> [InternalId=5004113] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 12:35:18 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 12:35:11 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <5a31dacb-de46-4c69-aaf8-7c999095a34c@BQE-CAS01.bqeu.corp.com> [InternalId=5004131] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 12:39:04 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 12:39:01 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma-msp@wave-distribution.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <62be4851-f089-4be6-b304-e98b59485c91@BQE-CAS01.bqeu.corp.com> [InternalId=5004174] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 12:50:08 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 12:50:02 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:luroschi@hotmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <34ac8d1a-e59f-4f89-9d6f-14bf471b662e@BQE-CAS01.bqeu.corp.com> [InternalId=5004274] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:00:40 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:00:40 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Aard.Daanen@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Jay.Koningsverdraag@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Marina.Hung@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Laetitia.Umuhoza@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ugo.turcio@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Maxime.Cliquet@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Tommy.Zannou@Benq.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <ac879d62-2a18-44b5-85e6-92d89850f376@BQE-CAS01.bqeu.corp.com> [InternalId=5004380] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:05:37 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:05:35 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:tom520ste@gmail.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <b2ba1b5c-0f8a-43af-b2c1-a0321a3e87f3@BQE-CAS01.bqeu.corp.com> [InternalId=5004428] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:09:28 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:09:21 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:horst-rott@gmx.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <fdc0cc4e-acca-43bd-8c97-d3807f0b7b6c@BQE-CAS01.bqeu.corp.com> [InternalId=5004474] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:21:22 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:21:16 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:dieter.knahl@t-online.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <9e43269f-9a67-4e83-ac78-182ccf24c6b7@BQE-CAS01.bqeu.corp.com> [InternalId=5004599] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:30:29 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:30:22 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:RMA5.Sav.Bezons@darty.fr
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <b8b585be-03b9-4c6a-be68-aa650f0c5a7f@BQE-CAS01.bqeu.corp.com> [InternalId=5004661] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:43:05 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:43:01 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:ralf.handwerk@eidotech.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <8d743941-6839-419a-ba70-1913cfe41fd4@BQE-CAS01.bqeu.corp.com> [InternalId=5004775] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:45:54 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:45:47 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:dirk.frenking@celexongroup.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <b2962636-1aa0-48fd-8b1e-7cd45cca80ca@BQE-CAS01.bqeu.corp.com> [InternalId=5004802] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 13:51:21 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 13:51:14 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:busstop@rolmail.net
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <0e61cacf-a73d-40d7-8335-4b7488ac8e8f@BQE-CAS01.bqeu.corp.com> [InternalId=5004837] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:00:22 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:00:11 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:vala@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Petr.Bystricky@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:havlikj@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:rataj@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:aurednik@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:brichacek@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:buricl@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:sklad-benq@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:gajdos@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:holubovaj@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:vavera.m@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:neubauer@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:zitek@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:smolikova@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:salesreturn@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spareparts@BenQ.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:RTV@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vala@vspdata.cz
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <a1d79584-1a26-43ae-8453-4ae93000f5dd@BQE-CAS01.bqeu.corp.com> [InternalId=5004915] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:05:59 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:05:55 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:rma@competec.ch
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f96c4737-cebe-4824-b05d-ed0ec18b9b8d@BQE-CAS01.bqeu.corp.com> [InternalId=5004962] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:10:46 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:10:37 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Petr.Bystricky@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Milos.drahokoupil@asupport.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:steven.yan@Benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:dominika.porubova@asupport.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:li.yang@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Radek.horsky@asupport.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Dominika.porubova@asupport.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:veronika.policova@asupport.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:jan.cerny@asupport.cz
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:salesreturn@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spareparts@BenQ.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:RTV@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ann.gerald@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f069c6b9-63d0-45dd-9a41-b8c5b389f429@BQE-CAS01.bqeu.corp.com> [InternalId=5005017] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:22:41 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:22:30 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:c_bettges@gmx.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <6e8391e3-f7d1-4aba-9cae-22589907c4f7@BQE-CAS01.bqeu.corp.com> [InternalId=5005119] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:29:09 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:29:02 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Expedition.SAV.ENNERY@darty.fr
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <3f78c91f-bf53-49f3-b09d-e3528074edac@BQE-CAS01.bqeu.corp.com> [InternalId=5005182] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:49:09 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:49:05 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:hs.tan@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:john.chng@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:HS.TAN@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Leon.Bek@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:yen.yew.cheah@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mainteq.repairer1@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:benq@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <83754655-6b10-4c59-b948-9dc3161a2f2f@BQE-CAS01.bqeu.corp.com> [InternalId=5005414] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:54:11 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:04 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:r-augereau@m3s.fr
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:aurelie-augereau@m3s.fr
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:c-ramos@m3s.fr
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:m-chipault@m3s.fr
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <bd3b1ac2-1aad-47b6-b30f-dc41d40b9937@BQE-CAS01.bqeu.corp.com> [InternalId=5005478] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:54:21 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:15 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vikki.clarke@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:BenQ@Repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:reclaimspares@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:elaine.ryder@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:steve.jackin@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f3c9ad96-4856-49d8-90a0-87d88392da35@BQE-CAS01.bqeu.corp.com> [InternalId=5005483] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:54:26 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:24 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vikki.clarke@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:BenQ@Repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:reclaimspares@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:elaine.ryder@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:steve.jackin@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <6de0791a-bbd3-45ef-9412-b6d794e16158@BQE-CAS01.bqeu.corp.com> [InternalId=5005485] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:54:36 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:32 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vikki.clarke@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:BenQ@Repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:reclaimspares@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:elaine.ryder@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:steve.jackin@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <12398928-d2f1-44d8-8e71-a60ff7f5db9a@BQE-CAS01.bqeu.corp.com> [InternalId=5005489] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:54:41 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:39 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vikki.clarke@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:BenQ@Repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:reclaimspares@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:elaine.ryder@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:steve.jackin@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <4d1ccd73-1e05-4d41-82ca-753f1c841971@BQE-CAS01.bqeu.corp.com> [InternalId=5005490] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:54:52 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:48 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Vikki.clarke@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:BenQ@Repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:reclaimspares@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:elaine.ryder@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:steve.jackin@repairtech.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <1a44bd5f-97d3-4737-bc3d-dfe55e5bed47@BQE-CAS01.bqeu.corp.com> [InternalId=5005491] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 14:55:03 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 14:54:59 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:benq-service@letmerepair.pl
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:customerclearance@letmerepair.pl
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:info@letmerepair.pl
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ajaniszewska@letmerepair.pl
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Eduard.Lupea@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mszewczyk@letmerepair.pl
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spares@letmerepair.pl
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <7ccdaa2a-3df9-43d5-bfda-a4286d6a7ec6@BQE-CAS01.bqeu.corp.com> [InternalId=5005493] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:18:27 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:18:24 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:christian.eberhard@kabelmail.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <77c862a4-2417-40e1-9815-9b2251f0ff24@BQE-CAS01.bqeu.corp.com> [InternalId=5005773] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:23:49 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:23:46 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:mail@xpression.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f4f683ff-6243-4ca1-96ce-9cd7108b2e32@BQE-CAS01.bqeu.corp.com> [InternalId=5005824] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:26:41 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:26:34 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <649ddd6b-fa9e-4f52-8702-7f7240c40cb9@BQE-CAS01.bqeu.corp.com> [InternalId=5005859] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:27:32 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:27:26 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <11dcdaf0-c566-4527-92b6-aa77fabad682@BQE-CAS01.bqeu.corp.com> [InternalId=5005869] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:28:32 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:28:25 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f25f40da-0f8c-47df-9af4-af9edab95c98@BQE-CAS01.bqeu.corp.com> [InternalId=5005888] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:29:46 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:29:39 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <e6dcd9c7-12fe-4842-91bc-eb9dd364951e@BQE-CAS01.bqeu.corp.com> [InternalId=5005902] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:39:34 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:39:28 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <67e4d77b-b9a0-4bcd-9899-a8df8a90fc2b@BQE-CAS01.bqeu.corp.com> [InternalId=5005998] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:41:26 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:41:22 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <c87feedf-15ff-4929-9139-d7e6acd55c84@BQE-CAS01.bqeu.corp.com> [InternalId=5006021] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:42:12 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:42:08 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:db@ai-it.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <1f15dff2-c579-4d74-8efd-fdc39478e99b@BQE-CAS01.bqeu.corp.com> [InternalId=5006031] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:42:58 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:42:53 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:danielandrewsss@gmail.comq
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <bc8c16a6-88c0-410c-8d37-8b875ea46921@BQE-CAS01.bqeu.corp.com> [InternalId=5006040] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:44:48 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:44:41 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <3d2dd919-2b99-4a55-9caa-a15a08f8e527@BQE-CAS01.bqeu.corp.com> [InternalId=5006058] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 15:49:28 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 15:49:21 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giacomo.Crucinio@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Igor.Brand@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <6901a6c1-d704-4a8d-aa60-ea3a84732ac9@BQE-CAS01.bqeu.corp.com> [InternalId=5006093] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 16:06:54 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 16:06:47 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:miko.alex@hotmail.fr
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <bb26e2b5-a232-4deb-afa0-f0c4a1f2d98a@BQE-CAS01.bqeu.corp.com> [InternalId=5006267] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 16:33:06 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 16:32:40 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:emma.bridges@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:graham.weatherly@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:logistics@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mark.power@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:leon.gaylard@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Luke.Scott@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <3afc5afb-5de9-4183-bcee-33e4e9c319a5@BQE-CAS01.bqeu.corp.com> [InternalId=5006537] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 16:39:56 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 16:39:50 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:ribergmann@web.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <9701a401-d508-40fe-b16a-a094a26c42ef@BQE-CAS01.bqeu.corp.com> [InternalId=5006615] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 16:54:37 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 16:54:20 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:hs.tan@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:john.chng@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:HS.TAN@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Leon.Bek@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:yen.yew.cheah@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mainteq.repairer1@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <654b7a3c-0bec-4864-95ad-d2e401f3cb4e@BQE-CAS01.bqeu.corp.com> [InternalId=5006755] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 16:54:37 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 16:54:20 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:hs.tan@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:john.chng@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:HS.TAN@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Leon.Bek@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:yen.yew.cheah@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mainteq.repairer1@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <b1091358-1ba8-420d-8c8a-c2da85390820@BQE-CAS01.bqeu.corp.com> [InternalId=5006756] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 16:57:43 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 16:57:40 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:jamie@incontrolnortheast.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <55fd0e54-e9be-4d09-9d07-38ea574c5e14@BQE-CAS01.bqeu.corp.com> [InternalId=5006786] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:00:16 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:00:10 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:Katya_Bosilkova@stemo.bg
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:ralitsa_ivanova@stemo.bg
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Cornelius.Sandru@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spareparts@BenQ.eu
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <0b684248-6859-40b5-86f7-f2c4cac26f99@BQE-CAS01.bqeu.corp.com> [InternalId=5006807] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:00:21 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:00:19 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:emma.bridges@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:graham.weatherly@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Fabio.Mancini@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:logistics@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mark.power@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:leon.gaylard@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spareparts@BenQ.eu
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Luke.Scott@equinox.co.uk
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <68017b59-1172-489f-9f27-d916129c3dc3@BQE-CAS01.bqeu.corp.com> [InternalId=5006808] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:00:27 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:00:24 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:lab.benq@stitaly.it
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:magazzino@stitaly.it
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:spareparts@BenQ.eu
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <f5b8a860-a85c-4e85-a2d6-4aee90d2b33b@BQE-CAS01.bqeu.corp.com> [InternalId=5006809] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:03:46 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:03:43 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:simon.maassmann@celexongroup.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <3bdffda5-5232-4152-8e58-984c357715f8@BQE-CAS01.bqeu.corp.com> [InternalId=5006837] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:13:18 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:13:13 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:avd.nancy@yahoo.fr
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <662c9ac5-4b0e-45c1-8bb7-837372f8720e@BQE-CAS01.bqeu.corp.com> [InternalId=5006936] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:13:54 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:13:48 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:info@dbeb.it
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <66e785cb-b41d-4733-aae0-54fc27ddbc6a@BQE-CAS01.bqeu.corp.com> [InternalId=5006943] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:14:35 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:14:30 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:avd.nancy@yahoo.fr
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <9ec65ddf-dfda-437b-b44e-1bb8779ea1ac@BQE-CAS01.bqeu.corp.com> [InternalId=5006951] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:17:39 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:17:33 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:patrick.nieder@gmx.de
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <40d2894f-daba-4c51-bc5c-b2c414c74fd8@BQE-CAS01.bqeu.corp.com> [InternalId=5006985] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:21:13 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:21:02 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:hs.tan@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:john.chng@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:HS.TAN@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Leon.Bek@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:yen.yew.cheah@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:li.yang@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mainteq.repairer1@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:benq@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:salesreturn@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <6e13a224-ca73-4b48-b672-3bea2ddfafdc@BQE-CAS01.bqeu.corp.com> [InternalId=5007010] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:21:18 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:21:07 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:hs.tan@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:john.chng@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:HS.TAN@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Leon.Bek@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:yen.yew.cheah@MAINTEQ-EU.COM
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:li.yang@benq.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:mainteq.repairer1@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:Giuliano.Belnome@BenQ.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:benq@mainteq-eu.com
+  <- 250 2.1.5 Recipient OK
+  -> RCPT TO:salesreturn@benq.eu
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <1098985b-6d8b-4f93-bea8-2c981268ef1c@BQE-CAS01.bqeu.corp.com> [InternalId=5007011] Queued mail for delivery
+  0 of 1 servers failed
+}
+
+----- Recorded at 2016-03-15 17:23:11 -----
+Send successfully: Yes
+.execute()
+{
+  Trying server mail:mailalerts.bqeu.corp.com
+  <- 220 BQE-CAS01.bqeu.corp.com Microsoft ESMTP MAIL Service ready at Tue, 15 Mar 2016 17:23:08 +0100
+  -> EHLO BQE-AS17
+  <- 250-BQE-CAS01.bqeu.corp.com Hello [10.95.31.71]
+250-SIZE 10485760
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+  -> MAIL FROM:<noreply@benq.eu>
+  <- 250 2.1.0 Sender OK
+  -> RCPT TO:francesco.luceri@lucanasistemi.com
+  <- 250 2.1.5 Recipient OK
+  -> DATA
+  <- 354 Start mail input; end with <CRLF>.<CRLF>
+  Sending headers...
+  Sending body...
+  Message sent
+  <- 250 2.6.0 <0b256866-4cfe-4362-8214-d90860ee0ccb@BQE-CAS01.bqeu.corp.com> [InternalId=5007029] Queued mail for delivery
+  0 of 1 servers failed
+}
+
